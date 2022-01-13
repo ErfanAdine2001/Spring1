@@ -8,3 +8,4 @@ import org.springframework.context.annotation.Import;
 public class AppConfig {
 
 }
+//this is a message for intellij
